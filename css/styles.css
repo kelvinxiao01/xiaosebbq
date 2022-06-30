@@ -51,7 +51,7 @@ img {
 #form {
   margin: 0 750px 0 750px;
   position: relative;
-  right: 300px;
+  right: 700px;
   top: 200px;
 
 }
@@ -59,5 +59,5 @@ img {
 #form h1 {
   color: red;
   position: relative;
-  bottom: 100px;
+  bottom: 50px;
 }
