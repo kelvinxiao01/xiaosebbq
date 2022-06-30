@@ -1,0 +1,63 @@
+body {
+  background-color: #85C1E9;
+}
+h1 {
+  text-align: center;
+  font-family: Comic Neue;
+  font-weight: bold;
+  padding-top: 3%;
+  font-size: 60px;
+}
+
+p {
+  text-align: center;
+  font-family: ubuntu;
+  font-weight: bold;
+  padding-top: 3%;
+  font-size: 30px;;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+input {
+  margin-bottom: 10px;
+  border: 0;
+  box-shadow: 0 0 15px 4px rgba(0, 0, 0, 0.06);
+  border-radius: 10px;
+}
+
+button {
+  border: 0;
+  box-shadow: 0 0 15px 4px rgba(0, 0, 0, 0.06);
+  border-radius: 10px;
+}
+
+img {
+  height: 500px;
+  width: 600px;
+  position: relative;
+  left: 400px;
+  bottom: 300px;
+
+}
+
+
+
+#heading {
+  color: red;
+
+}
+
+#form {
+  margin: 0 750px 0 750px;
+  position: relative;
+  right: 300px;
+  top: 200px;
+
+}
+
+#form h1 {
+  color: red;
+  position: relative;
+  bottom: 100px;
+}

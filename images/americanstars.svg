@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1482"
+   height="1050"
+   version="1.1"
+   id="svg45"
+   sodipodi:docname="Naval_jack_of_the_United_States.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata51">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs49" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1096"
+     id="namedview47"
+     showgrid="false"
+     inkscape:zoom="0.21187584"
+     inkscape:cx="2221.8796"
+     inkscape:cy="505.899"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg45" />
+  <rect
+     width="1482"
+     height="1050"
+     fill="#002868"
+     id="rect2"
+     style="fill:#3c3b6e;fill-opacity:1" />
+  <g
+     id="r1">
+    <use
+       xlink:href="#s"
+       x="-123.5"
+       y="-105"
+       id="use4" />
+    <use
+       xlink:href="#r2"
+       x="123.5"
+       y="-105"
+       id="use6" />
+  </g>
+  <g
+     id="r2">
+    <g
+       id="s"
+       transform="translate(247,210)">
+      <g
+         id="c">
+        <path
+           id="t"
+           d="M 0,-60 V 0 H 30"
+           transform="rotate(18 0,-60)"
+           fill="#fff" />
+        <use
+           xlink:href="#t"
+           transform="scale(-1,1)"
+           id="use10" />
+      </g>
+      <use
+         xlink:href="#c"
+         transform="rotate(72)"
+         id="use13" />
+      <use
+         xlink:href="#c"
+         transform="rotate(144)"
+         id="use15" />
+      <use
+         xlink:href="#c"
+         transform="rotate(216)"
+         id="use17" />
+      <use
+         xlink:href="#c"
+         transform="rotate(288)"
+         id="use19" />
+    </g>
+    <use
+       xlink:href="#s"
+       x="247"
+       id="use22" />
+    <use
+       xlink:href="#s"
+       x="494"
+       id="use24" />
+    <use
+       xlink:href="#s"
+       x="741"
+       id="use26" />
+    <use
+       xlink:href="#s"
+       x="988"
+       id="use28" />
+  </g>
+  <use
+     xlink:href="#r1"
+     y="210"
+     id="use31" />
+  <use
+     xlink:href="#r2"
+     y="210"
+     id="use33" />
+  <use
+     xlink:href="#r1"
+     y="420"
+     id="use35" />
+  <use
+     xlink:href="#r2"
+     y="420"
+     id="use37" />
+  <use
+     xlink:href="#r1"
+     y="630"
+     id="use39" />
+  <use
+     xlink:href="#r2"
+     y="630"
+     id="use41" />
+  <use
+     xlink:href="#r1"
+     y="840"
+     id="use43" />
+</svg>
